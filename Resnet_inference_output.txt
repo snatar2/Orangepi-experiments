@@ -1,0 +1,268 @@
+2024-08-05 08:31:41,752 - Loading model...
+2024-08-05 08:31:42,244 - Loading labels...
+2024-08-05 08:31:42,246 - Labels loaded: 1001 labels
+2024-08-05 08:31:42,247 - Expected input size: (224, 224)
+2024-08-05 08:31:42,247 - Processing images from directory: /home/orangepi/Pictures/
+2024-08-05 08:31:42,247 - Processing image: WhatsApp Image 2024-08-02 at 2.49.47 AM (1).jpeg
+2024-08-05 08:31:42,477 - Image: WhatsApp Image 2024-08-02 at 2.49.47 AM (1).jpeg, Predicted class: 980 - valley, Inference time: 0.032380 seconds
+2024-08-05 08:31:42,477 - Processing image: WhatsApp Image 2024-08-02 at 2.49.34 AM.jpeg
+2024-08-05 08:31:42,561 - Image: WhatsApp Image 2024-08-02 at 2.49.34 AM.jpeg, Predicted class: 423 - barbell, Inference time: 0.018342 seconds
+2024-08-05 08:31:42,561 - Processing image: WhatsApp Image 2024-08-02 at 2.49.39 AM (2).jpeg
+2024-08-05 08:31:42,684 - Image: WhatsApp Image 2024-08-02 at 2.49.39 AM (2).jpeg, Predicted class: 808 - solar dish, Inference time: 0.018237 seconds
+2024-08-05 08:31:42,684 - Processing image: WhatsApp Image 2024-08-02 at 2.49.39 AM (5).jpeg
+2024-08-05 08:31:42,805 - Image: WhatsApp Image 2024-08-02 at 2.49.39 AM (5).jpeg, Predicted class: 443 - bell cote, Inference time: 0.018320 seconds
+2024-08-05 08:31:42,805 - Processing image: WhatsApp Image 2024-07-27 at 11.13.22 AM.jpeg
+2024-08-05 08:31:42,889 - Image: WhatsApp Image 2024-07-27 at 11.13.22 AM.jpeg, Predicted class: 694 - paddle, Inference time: 0.018258 seconds
+2024-08-05 08:31:42,889 - Processing image: WhatsApp Image 2024-07-27 at 7.46.08 AM (1).jpeg
+2024-08-05 08:31:43,014 - Image: WhatsApp Image 2024-07-27 at 7.46.08 AM (1).jpeg, Predicted class: 699 - palace, Inference time: 0.018321 seconds
+2024-08-05 08:31:43,014 - Processing image: WhatsApp Image 2024-07-27 at 7.46.08 AM.jpeg
+2024-08-05 08:31:43,129 - Image: WhatsApp Image 2024-07-27 at 7.46.08 AM.jpeg, Predicted class: 683 - obelisk, Inference time: 0.018179 seconds
+2024-08-05 08:31:43,129 - Processing image: WhatsApp Image 2024-07-28 at 1.31.25 AM (2).jpeg
+2024-08-05 08:31:43,218 - Image: WhatsApp Image 2024-07-28 at 1.31.25 AM (2).jpeg, Predicted class: 891 - volleyball, Inference time: 0.018198 seconds
+2024-08-05 08:31:43,219 - Processing image: WhatsApp Image 2024-07-28 at 1.31.25 AM.jpeg
+2024-08-05 08:31:43,290 - Image: WhatsApp Image 2024-07-28 at 1.31.25 AM.jpeg, Predicted class: 979 - seashore, Inference time: 0.018219 seconds
+2024-08-05 08:31:43,290 - Processing image: WhatsApp Image 2024-08-02 at 2.49.49 AM (2).jpeg
+2024-08-05 08:31:43,402 - Image: WhatsApp Image 2024-08-02 at 2.49.49 AM (2).jpeg, Predicted class: 909 - wing, Inference time: 0.018154 seconds
+2024-08-05 08:31:43,402 - Processing image: WhatsApp Image 2024-08-02 at 2.49.40 AM.jpeg
+2024-08-05 08:31:43,510 - Image: WhatsApp Image 2024-08-02 at 2.49.40 AM.jpeg, Predicted class: 560 - folding chair, Inference time: 0.018150 seconds
+2024-08-05 08:31:43,510 - Processing image: WhatsApp Image 2024-08-02 at 2.49.50 AM (2).jpeg
+2024-08-05 08:31:43,624 - Image: WhatsApp Image 2024-08-02 at 2.49.50 AM (2).jpeg, Predicted class: 476 - car mirror, Inference time: 0.018281 seconds
+2024-08-05 08:31:43,624 - Processing image: WhatsApp Image 2024-08-02 at 2.49.35 AM.jpeg
+2024-08-05 08:31:43,737 - Image: WhatsApp Image 2024-08-02 at 2.49.35 AM.jpeg, Predicted class: 644 - mask, Inference time: 0.018153 seconds
+2024-08-05 08:31:43,737 - Processing image: WhatsApp Image 2024-08-02 at 2.49.39 AM (4).jpeg
+2024-08-05 08:31:43,853 - Image: WhatsApp Image 2024-08-02 at 2.49.39 AM (4).jpeg, Predicted class: 776 - sarong, Inference time: 0.018277 seconds
+2024-08-05 08:31:43,853 - Processing image: WhatsApp Image 2024-08-02 at 2.49.49 AM.jpeg
+2024-08-05 08:31:43,968 - Image: WhatsApp Image 2024-08-02 at 2.49.49 AM.jpeg, Predicted class: 980 - valley, Inference time: 0.018255 seconds
+2024-08-05 08:31:43,968 - Processing image: WhatsApp Image 2024-08-02 at 2.49.50 AM (1).jpeg
+2024-08-05 08:31:44,096 - Image: WhatsApp Image 2024-08-02 at 2.49.50 AM (1).jpeg, Predicted class: 484 - castle, Inference time: 0.018222 seconds
+2024-08-05 08:31:44,096 - Processing image: WhatsApp Image 2024-08-02 at 2.49.40 AM (1).jpeg
+2024-08-05 08:31:44,192 - Image: WhatsApp Image 2024-08-02 at 2.49.40 AM (1).jpeg, Predicted class: 625 - library, Inference time: 0.018147 seconds
+2024-08-05 08:31:44,192 - Processing image: WhatsApp Image 2024-08-02 at 2.49.47 AM (2).jpeg
+2024-08-05 08:31:44,311 - Image: WhatsApp Image 2024-08-02 at 2.49.47 AM (2).jpeg, Predicted class: 971 - alp, Inference time: 0.018250 seconds
+2024-08-05 08:31:44,311 - Processing image: WhatsApp Image 2024-08-02 at 2.49.51 AM (1).jpeg
+2024-08-05 08:31:44,442 - Image: WhatsApp Image 2024-08-02 at 2.49.51 AM (1).jpeg, Predicted class: 707 - patio, Inference time: 0.018254 seconds
+2024-08-05 08:31:44,442 - Processing image: WhatsApp Image 2024-07-29 at 10.50.13 PM.jpeg
+2024-08-05 08:31:44,506 - Image: WhatsApp Image 2024-07-29 at 10.50.13 PM.jpeg, Predicted class: 858 - throne, Inference time: 0.018266 seconds
+2024-08-05 08:31:44,506 - Processing image: WhatsApp Image 2024-08-02 at 2.49.46 AM (2).jpeg
+2024-08-05 08:31:44,565 - Image: WhatsApp Image 2024-08-02 at 2.49.46 AM (2).jpeg, Predicted class: 795 - shower curtain, Inference time: 0.018154 seconds
+2024-08-05 08:31:44,565 - Processing image: WhatsApp Image 2024-08-02 at 2.49.47 AM (4).jpeg
+2024-08-05 08:31:44,648 - Image: WhatsApp Image 2024-08-02 at 2.49.47 AM (4).jpeg, Predicted class: 980 - valley, Inference time: 0.018207 seconds
+2024-08-05 08:31:44,648 - Processing image: WhatsApp Image 2024-08-02 at 2.49.39 AM (1).jpeg
+2024-08-05 08:31:44,750 - Image: WhatsApp Image 2024-08-02 at 2.49.39 AM (1).jpeg, Predicted class: 522 - Crock Pot, Inference time: 0.018258 seconds
+2024-08-05 08:31:44,750 - Processing image: WhatsApp Image 2024-08-02 at 2.49.50 AM (4).jpeg
+2024-08-05 08:31:44,865 - Image: WhatsApp Image 2024-08-02 at 2.49.50 AM (4).jpeg, Predicted class: 980 - valley, Inference time: 0.018162 seconds
+2024-08-05 08:31:44,865 - Processing image: WhatsApp Image 2024-08-02 at 2.49.46 AM (3).jpeg
+2024-08-05 08:31:44,950 - Image: WhatsApp Image 2024-08-02 at 2.49.46 AM (3).jpeg, Predicted class: 647 - maze, Inference time: 0.018515 seconds
+2024-08-05 08:31:44,950 - Processing image: WhatsApp Image 2024-08-02 at 2.49.36 AM (1).jpeg
+2024-08-05 08:31:45,052 - Image: WhatsApp Image 2024-08-02 at 2.49.36 AM (1).jpeg, Predicted class: 554 - file, Inference time: 0.018364 seconds
+2024-08-05 08:31:45,052 - Processing image: WhatsApp Image 2024-08-02 at 2.49.47 AM (5).jpeg
+2024-08-05 08:31:45,169 - Image: WhatsApp Image 2024-08-02 at 2.49.47 AM (5).jpeg, Predicted class: 977 - promontory, Inference time: 0.018173 seconds
+2024-08-05 08:31:45,170 - Processing image: WhatsApp Image 2024-08-02 at 2.49.50 AM (3).jpeg
+2024-08-05 08:31:45,285 - Image: WhatsApp Image 2024-08-02 at 2.49.50 AM (3).jpeg, Predicted class: 913 - worm fence, Inference time: 0.018164 seconds
+2024-08-05 08:31:45,285 - Processing image: WhatsApp Image 2024-08-02 at 2.49.50 AM (5).jpeg
+2024-08-05 08:31:45,409 - Image: WhatsApp Image 2024-08-02 at 2.49.50 AM (5).jpeg, Predicted class: 581 - greenhouse, Inference time: 0.018302 seconds
+2024-08-05 08:31:45,409 - Processing image: WhatsApp Image 2024-08-02 at 2.49.38 AM.jpeg
+2024-08-05 08:31:45,538 - Image: WhatsApp Image 2024-08-02 at 2.49.38 AM.jpeg, Predicted class: 434 - bathing cap, Inference time: 0.018148 seconds
+2024-08-05 08:31:45,538 - Processing image: WhatsApp Image 2024-08-02 at 2.49.48 AM (5).jpeg
+2024-08-05 08:31:45,664 - Image: WhatsApp Image 2024-08-02 at 2.49.48 AM (5).jpeg, Predicted class: 338 - beaver, Inference time: 0.018239 seconds
+2024-08-05 08:31:45,664 - Processing image: WhatsApp Image 2024-07-28 at 1.31.25 AM (1).jpeg
+2024-08-05 08:31:45,757 - Image: WhatsApp Image 2024-07-28 at 1.31.25 AM (1).jpeg, Predicted class: 979 - seashore, Inference time: 0.018315 seconds
+2024-08-05 08:31:45,757 - Processing image: WhatsApp Image 2024-07-21 at 11.36.02 AM.jpeg
+2024-08-05 08:31:45,856 - Image: WhatsApp Image 2024-07-21 at 11.36.02 AM.jpeg, Predicted class: 791 - shopping basket, Inference time: 0.018363 seconds
+2024-08-05 08:31:45,856 - Processing image: WhatsApp Image 2024-07-28 at 1.31.26 AM.jpeg
+2024-08-05 08:31:45,947 - Image: WhatsApp Image 2024-07-28 at 1.31.26 AM.jpeg, Predicted class: 838 - sunglasses, Inference time: 0.018221 seconds
+2024-08-05 08:31:45,947 - Processing image: WhatsApp Image 2024-08-02 at 2.49.50 AM.jpeg
+2024-08-05 08:31:46,083 - Image: WhatsApp Image 2024-08-02 at 2.49.50 AM.jpeg, Predicted class: 699 - palace, Inference time: 0.018187 seconds
+2024-08-05 08:31:46,083 - Processing image: WhatsApp Image 2024-08-02 at 2.49.51 AM.jpeg
+2024-08-05 08:31:46,169 - Image: WhatsApp Image 2024-08-02 at 2.49.51 AM.jpeg, Predicted class: 601 - hook, Inference time: 0.018164 seconds
+2024-08-05 08:31:46,169 - Processing image: WhatsApp Image 2024-07-26 at 5.34.31 AM.jpeg
+2024-08-05 08:31:46,288 - Image: WhatsApp Image 2024-07-26 at 5.34.31 AM.jpeg, Predicted class: 461 - breakwater, Inference time: 0.018271 seconds
+2024-08-05 08:31:46,288 - Processing image: WhatsApp Image 2024-08-02 at 2.49.35 AM (2).jpeg
+2024-08-05 08:31:46,393 - Image: WhatsApp Image 2024-08-02 at 2.49.35 AM (2).jpeg, Predicted class: 844 - swing, Inference time: 0.018182 seconds
+2024-08-05 08:31:46,393 - Processing image: WhatsApp Image 2024-08-02 at 2.49.39 AM.jpeg
+2024-08-05 08:31:46,481 - Image: WhatsApp Image 2024-08-02 at 2.49.39 AM.jpeg, Predicted class: 866 - toyshop, Inference time: 0.018240 seconds
+2024-08-05 08:31:46,481 - Processing image: WhatsApp Image 2024-07-13 at 11.15.17 AM.jpeg
+2024-08-05 08:31:46,597 - Image: WhatsApp Image 2024-07-13 at 11.15.17 AM.jpeg, Predicted class: 988 - corn, Inference time: 0.018158 seconds
+2024-08-05 08:31:46,598 - Processing image: WhatsApp Image 2024-08-02 at 2.49.47 AM (3).jpeg
+2024-08-05 08:31:46,676 - Image: WhatsApp Image 2024-08-02 at 2.49.47 AM (3).jpeg, Predicted class: 976 - lakeside, Inference time: 0.018267 seconds
+2024-08-05 08:31:46,676 - Processing image: WhatsApp Image 2024-08-02 at 2.49.48 AM (3).jpeg
+2024-08-05 08:31:46,758 - Image: WhatsApp Image 2024-08-02 at 2.49.48 AM (3).jpeg, Predicted class: 971 - alp, Inference time: 0.018198 seconds
+2024-08-05 08:31:46,758 - Processing image: WhatsApp Image 2024-08-02 at 2.49.49 AM (3).jpeg
+2024-08-05 08:31:46,833 - Image: WhatsApp Image 2024-08-02 at 2.49.49 AM (3).jpeg, Predicted class: 699 - palace, Inference time: 0.018156 seconds
+2024-08-05 08:31:46,833 - Processing image: WhatsApp Image 2024-08-02 at 2.49.36 AM.jpeg
+2024-08-05 08:31:46,958 - Image: WhatsApp Image 2024-08-02 at 2.49.36 AM.jpeg, Predicted class: 877 - tub, Inference time: 0.018267 seconds
+2024-08-05 08:31:46,958 - Processing image: WhatsApp Image 2024-08-02 at 2.49.38 AM (1).jpeg
+2024-08-05 08:31:47,072 - Image: WhatsApp Image 2024-08-02 at 2.49.38 AM (1).jpeg, Predicted class: 434 - bathing cap, Inference time: 0.018159 seconds
+2024-08-05 08:31:47,072 - Processing image: WhatsApp Image 2024-08-02 at 2.49.48 AM.jpeg
+2024-08-05 08:31:47,181 - Image: WhatsApp Image 2024-08-02 at 2.49.48 AM.jpeg, Predicted class: 878 - turnstile, Inference time: 0.018122 seconds
+2024-08-05 08:31:47,182 - Processing image: WhatsApp Image 2024-08-02 at 2.49.49 AM (1).jpeg
+2024-08-05 08:31:47,320 - Image: WhatsApp Image 2024-08-02 at 2.49.49 AM (1).jpeg, Predicted class: 980 - valley, Inference time: 0.018284 seconds
+2024-08-05 08:31:47,320 - Processing image: WhatsApp Image 2024-07-27 at 7.46.07 AM.jpeg
+2024-08-05 08:31:47,452 - Image: WhatsApp Image 2024-07-27 at 7.46.07 AM.jpeg, Predicted class: 699 - palace, Inference time: 0.018605 seconds
+2024-08-05 08:31:47,453 - Processing image: WhatsApp Image 2024-07-26 at 5.34.30 AM.jpeg
+2024-08-05 08:31:47,571 - Image: WhatsApp Image 2024-07-26 at 5.34.30 AM.jpeg, Predicted class: 776 - sarong, Inference time: 0.018393 seconds
+2024-08-05 08:31:47,571 - Processing image: WhatsApp Image 2024-08-02 at 2.49.48 AM (4).jpeg
+2024-08-05 08:31:47,675 - Image: WhatsApp Image 2024-08-02 at 2.49.48 AM (4).jpeg, Predicted class: 976 - lakeside, Inference time: 0.018136 seconds
+2024-08-05 08:31:47,676 - Processing image: WhatsApp Image 2024-07-27 at 7.46.06 AM.jpeg
+2024-08-05 08:31:47,795 - Image: WhatsApp Image 2024-07-27 at 7.46.06 AM.jpeg, Predicted class: 461 - breakwater, Inference time: 0.018362 seconds
+2024-08-05 08:31:47,796 - Processing image: WhatsApp Image 2024-08-02 at 2.49.48 AM (2).jpeg
+2024-08-05 08:31:47,904 - Image: WhatsApp Image 2024-08-02 at 2.49.48 AM (2).jpeg, Predicted class: 844 - swing, Inference time: 0.018277 seconds
+2024-08-05 08:31:47,905 - Processing image: WhatsApp Image 2024-08-02 at 2.49.47 AM.jpeg
+2024-08-05 08:31:48,039 - Image: WhatsApp Image 2024-08-02 at 2.49.47 AM.jpeg, Predicted class: 349 - ram, Inference time: 0.018274 seconds
+2024-08-05 08:31:48,039 - Processing image: WhatsApp Image 2024-08-02 at 2.49.39 AM (3).jpeg
+2024-08-05 08:31:48,098 - Image: WhatsApp Image 2024-08-02 at 2.49.39 AM (3).jpeg, Predicted class: 884 - vase, Inference time: 0.018148 seconds
+2024-08-05 08:31:48,099 - Processing image: WhatsApp Image 2024-08-02 at 2.49.46 AM.jpeg
+2024-08-05 08:31:48,228 - Image: WhatsApp Image 2024-08-02 at 2.49.46 AM.jpeg, Predicted class: 981 - volcano, Inference time: 0.018281 seconds
+2024-08-05 08:31:48,228 - Processing image: WhatsApp Image 2024-08-02 at 2.49.46 AM (1).jpeg
+2024-08-05 08:31:48,271 - Image: WhatsApp Image 2024-08-02 at 2.49.46 AM (1).jpeg, Predicted class: 794 - shower cap, Inference time: 0.018507 seconds
+2024-08-05 08:31:48,272 - Processing image: WhatsApp Image 2024-08-02 at 2.49.48 AM (1).jpeg
+2024-08-05 08:31:48,358 - Image: WhatsApp Image 2024-08-02 at 2.49.48 AM (1).jpeg, Predicted class: 980 - valley, Inference time: 0.018142 seconds
+2024-08-05 08:31:48,358 - Processing image: WhatsApp Image 2024-08-02 at 2.49.51 AM (2).jpeg
+2024-08-05 08:31:48,410 - Image: WhatsApp Image 2024-08-02 at 2.49.51 AM (2).jpeg, Predicted class: 820 - stage, Inference time: 0.018140 seconds
+2024-08-05 08:31:48,410 - Processing image: WhatsApp Image 2024-08-02 at 2.49.35 AM (1).jpeg
+2024-08-05 08:31:48,512 - Image: WhatsApp Image 2024-08-02 at 2.49.35 AM (1).jpeg, Predicted class: 976 - lakeside, Inference time: 0.018626 seconds
+2024-08-05 08:31:48,512 - Total time for processing 59 images: 1.090997 seconds
+2024-08-05 08:31:48,512 - Average inference time per image: 0.018491 seconds
+2024-08-06 06:01:08,128 - Loading model...
+2024-08-06 06:01:08,609 - Loading labels...
+2024-08-06 06:01:08,611 - Labels loaded: 1001 labels
+2024-08-06 06:01:08,612 - Expected input size: (224, 224)
+2024-08-06 06:01:08,612 - Processing images from directory: /home/orangepi/Pictures/
+2024-08-06 06:01:08,612 - Processing image: WhatsApp Image 2024-08-02 at 2.49.47 AM (1).jpeg
+2024-08-06 06:01:08,785 - Image: WhatsApp Image 2024-08-02 at 2.49.47 AM (1).jpeg, Predicted class: 980 - valley, Inference time: 0.029318 seconds
+2024-08-06 06:01:08,786 - Processing image: WhatsApp Image 2024-08-02 at 2.49.34 AM.jpeg
+2024-08-06 06:01:08,865 - Image: WhatsApp Image 2024-08-02 at 2.49.34 AM.jpeg, Predicted class: 423 - barbell, Inference time: 0.018488 seconds
+2024-08-06 06:01:08,865 - Processing image: WhatsApp Image 2024-08-02 at 2.49.39 AM (2).jpeg
+2024-08-06 06:01:08,966 - Image: WhatsApp Image 2024-08-02 at 2.49.39 AM (2).jpeg, Predicted class: 808 - solar dish, Inference time: 0.018347 seconds
+2024-08-06 06:01:08,966 - Processing image: WhatsApp Image 2024-08-02 at 2.49.39 AM (5).jpeg
+2024-08-06 06:01:09,066 - Image: WhatsApp Image 2024-08-02 at 2.49.39 AM (5).jpeg, Predicted class: 443 - bell cote, Inference time: 0.018987 seconds
+2024-08-06 06:01:09,066 - Processing image: WhatsApp Image 2024-07-27 at 11.13.22 AM.jpeg
+2024-08-06 06:01:09,145 - Image: WhatsApp Image 2024-07-27 at 11.13.22 AM.jpeg, Predicted class: 694 - paddle, Inference time: 0.018379 seconds
+2024-08-06 06:01:09,146 - Processing image: WhatsApp Image 2024-07-27 at 7.46.08 AM (1).jpeg
+2024-08-06 06:01:09,246 - Image: WhatsApp Image 2024-07-27 at 7.46.08 AM (1).jpeg, Predicted class: 699 - palace, Inference time: 0.018450 seconds
+2024-08-06 06:01:09,246 - Processing image: WhatsApp Image 2024-07-27 at 7.46.08 AM.jpeg
+2024-08-06 06:01:09,357 - Image: WhatsApp Image 2024-07-27 at 7.46.08 AM.jpeg, Predicted class: 683 - obelisk, Inference time: 0.018915 seconds
+2024-08-06 06:01:09,358 - Processing image: WhatsApp Image 2024-07-28 at 1.31.25 AM (2).jpeg
+2024-08-06 06:01:09,430 - Image: WhatsApp Image 2024-07-28 at 1.31.25 AM (2).jpeg, Predicted class: 891 - volleyball, Inference time: 0.018368 seconds
+2024-08-06 06:01:09,431 - Processing image: WhatsApp Image 2024-07-28 at 1.31.25 AM.jpeg
+2024-08-06 06:01:09,497 - Image: WhatsApp Image 2024-07-28 at 1.31.25 AM.jpeg, Predicted class: 979 - seashore, Inference time: 0.018350 seconds
+2024-08-06 06:01:09,497 - Processing image: WhatsApp Image 2024-08-02 at 2.49.49 AM (2).jpeg
+2024-08-06 06:01:09,592 - Image: WhatsApp Image 2024-08-02 at 2.49.49 AM (2).jpeg, Predicted class: 909 - wing, Inference time: 0.018846 seconds
+2024-08-06 06:01:09,593 - Processing image: WhatsApp Image 2024-08-02 at 2.49.40 AM.jpeg
+2024-08-06 06:01:09,697 - Image: WhatsApp Image 2024-08-02 at 2.49.40 AM.jpeg, Predicted class: 560 - folding chair, Inference time: 0.019198 seconds
+2024-08-06 06:01:09,697 - Processing image: WhatsApp Image 2024-08-02 at 2.49.50 AM (2).jpeg
+2024-08-06 06:01:09,792 - Image: WhatsApp Image 2024-08-02 at 2.49.50 AM (2).jpeg, Predicted class: 476 - car mirror, Inference time: 0.019004 seconds
+2024-08-06 06:01:09,792 - Processing image: WhatsApp Image 2024-08-02 at 2.49.35 AM.jpeg
+2024-08-06 06:01:09,891 - Image: WhatsApp Image 2024-08-02 at 2.49.35 AM.jpeg, Predicted class: 644 - mask, Inference time: 0.018600 seconds
+2024-08-06 06:01:09,891 - Processing image: WhatsApp Image 2024-08-02 at 2.49.39 AM (4).jpeg
+2024-08-06 06:01:09,991 - Image: WhatsApp Image 2024-08-02 at 2.49.39 AM (4).jpeg, Predicted class: 776 - sarong, Inference time: 0.018752 seconds
+2024-08-06 06:01:09,991 - Processing image: WhatsApp Image 2024-08-02 at 2.49.49 AM.jpeg
+2024-08-06 06:01:10,092 - Image: WhatsApp Image 2024-08-02 at 2.49.49 AM.jpeg, Predicted class: 980 - valley, Inference time: 0.018720 seconds
+2024-08-06 06:01:10,092 - Processing image: WhatsApp Image 2024-08-02 at 2.49.50 AM (1).jpeg
+2024-08-06 06:01:10,200 - Image: WhatsApp Image 2024-08-02 at 2.49.50 AM (1).jpeg, Predicted class: 484 - castle, Inference time: 0.018644 seconds
+2024-08-06 06:01:10,200 - Processing image: WhatsApp Image 2024-08-02 at 2.49.40 AM (1).jpeg
+2024-08-06 06:01:10,277 - Image: WhatsApp Image 2024-08-02 at 2.49.40 AM (1).jpeg, Predicted class: 625 - library, Inference time: 0.018413 seconds
+2024-08-06 06:01:10,278 - Processing image: WhatsApp Image 2024-08-02 at 2.49.47 AM (2).jpeg
+2024-08-06 06:01:10,375 - Image: WhatsApp Image 2024-08-02 at 2.49.47 AM (2).jpeg, Predicted class: 971 - alp, Inference time: 0.018919 seconds
+2024-08-06 06:01:10,376 - Processing image: WhatsApp Image 2024-08-02 at 2.49.51 AM (1).jpeg
+2024-08-06 06:01:10,492 - Image: WhatsApp Image 2024-08-02 at 2.49.51 AM (1).jpeg, Predicted class: 707 - patio, Inference time: 0.019387 seconds
+2024-08-06 06:01:10,493 - Processing image: WhatsApp Image 2024-07-29 at 10.50.13 PM.jpeg
+2024-08-06 06:01:10,540 - Image: WhatsApp Image 2024-07-29 at 10.50.13 PM.jpeg, Predicted class: 858 - throne, Inference time: 0.018533 seconds
+2024-08-06 06:01:10,540 - Processing image: WhatsApp Image 2024-08-02 at 2.49.46 AM (2).jpeg
+2024-08-06 06:01:10,585 - Image: WhatsApp Image 2024-08-02 at 2.49.46 AM (2).jpeg, Predicted class: 795 - shower curtain, Inference time: 0.018818 seconds
+2024-08-06 06:01:10,585 - Processing image: WhatsApp Image 2024-08-02 at 2.49.47 AM (4).jpeg
+2024-08-06 06:01:10,663 - Image: WhatsApp Image 2024-08-02 at 2.49.47 AM (4).jpeg, Predicted class: 980 - valley, Inference time: 0.018444 seconds
+2024-08-06 06:01:10,663 - Processing image: WhatsApp Image 2024-08-02 at 2.49.39 AM (1).jpeg
+2024-08-06 06:01:10,751 - Image: WhatsApp Image 2024-08-02 at 2.49.39 AM (1).jpeg, Predicted class: 522 - Crock Pot, Inference time: 0.018388 seconds
+2024-08-06 06:01:10,751 - Processing image: WhatsApp Image 2024-08-02 at 2.49.50 AM (4).jpeg
+2024-08-06 06:01:10,852 - Image: WhatsApp Image 2024-08-02 at 2.49.50 AM (4).jpeg, Predicted class: 980 - valley, Inference time: 0.018821 seconds
+2024-08-06 06:01:10,852 - Processing image: WhatsApp Image 2024-08-02 at 2.49.46 AM (3).jpeg
+2024-08-06 06:01:10,915 - Image: WhatsApp Image 2024-08-02 at 2.49.46 AM (3).jpeg, Predicted class: 647 - maze, Inference time: 0.018343 seconds
+2024-08-06 06:01:10,915 - Processing image: WhatsApp Image 2024-08-02 at 2.49.36 AM (1).jpeg
+2024-08-06 06:01:11,014 - Image: WhatsApp Image 2024-08-02 at 2.49.36 AM (1).jpeg, Predicted class: 554 - file, Inference time: 0.018303 seconds
+2024-08-06 06:01:11,014 - Processing image: WhatsApp Image 2024-08-02 at 2.49.47 AM (5).jpeg
+2024-08-06 06:01:11,117 - Image: WhatsApp Image 2024-08-02 at 2.49.47 AM (5).jpeg, Predicted class: 977 - promontory, Inference time: 0.018916 seconds
+2024-08-06 06:01:11,117 - Processing image: WhatsApp Image 2024-08-02 at 2.49.50 AM (3).jpeg
+2024-08-06 06:01:11,229 - Image: WhatsApp Image 2024-08-02 at 2.49.50 AM (3).jpeg, Predicted class: 913 - worm fence, Inference time: 0.018929 seconds
+2024-08-06 06:01:11,229 - Processing image: WhatsApp Image 2024-08-02 at 2.49.50 AM (5).jpeg
+2024-08-06 06:01:11,334 - Image: WhatsApp Image 2024-08-02 at 2.49.50 AM (5).jpeg, Predicted class: 581 - greenhouse, Inference time: 0.019022 seconds
+2024-08-06 06:01:11,334 - Processing image: WhatsApp Image 2024-08-02 at 2.49.38 AM.jpeg
+2024-08-06 06:01:11,439 - Image: WhatsApp Image 2024-08-02 at 2.49.38 AM.jpeg, Predicted class: 434 - bathing cap, Inference time: 0.018986 seconds
+2024-08-06 06:01:11,439 - Processing image: WhatsApp Image 2024-08-02 at 2.49.48 AM (5).jpeg
+2024-08-06 06:01:11,549 - Image: WhatsApp Image 2024-08-02 at 2.49.48 AM (5).jpeg, Predicted class: 338 - beaver, Inference time: 0.018879 seconds
+2024-08-06 06:01:11,549 - Processing image: WhatsApp Image 2024-07-28 at 1.31.25 AM (1).jpeg
+2024-08-06 06:01:11,618 - Image: WhatsApp Image 2024-07-28 at 1.31.25 AM (1).jpeg, Predicted class: 979 - seashore, Inference time: 0.018480 seconds
+2024-08-06 06:01:11,619 - Processing image: WhatsApp Image 2024-07-21 at 11.36.02 AM.jpeg
+2024-08-06 06:01:11,715 - Image: WhatsApp Image 2024-07-21 at 11.36.02 AM.jpeg, Predicted class: 791 - shopping basket, Inference time: 0.018389 seconds
+2024-08-06 06:01:11,715 - Processing image: WhatsApp Image 2024-07-28 at 1.31.26 AM.jpeg
+2024-08-06 06:01:11,785 - Image: WhatsApp Image 2024-07-28 at 1.31.26 AM.jpeg, Predicted class: 838 - sunglasses, Inference time: 0.018498 seconds
+2024-08-06 06:01:11,785 - Processing image: WhatsApp Image 2024-08-02 at 2.49.50 AM.jpeg
+2024-08-06 06:01:11,899 - Image: WhatsApp Image 2024-08-02 at 2.49.50 AM.jpeg, Predicted class: 699 - palace, Inference time: 0.018401 seconds
+2024-08-06 06:01:11,899 - Processing image: WhatsApp Image 2024-08-02 at 2.49.51 AM.jpeg
+2024-08-06 06:01:11,982 - Image: WhatsApp Image 2024-08-02 at 2.49.51 AM.jpeg, Predicted class: 601 - hook, Inference time: 0.018527 seconds
+2024-08-06 06:01:11,982 - Processing image: WhatsApp Image 2024-07-26 at 5.34.31 AM.jpeg
+2024-08-06 06:01:12,081 - Image: WhatsApp Image 2024-07-26 at 5.34.31 AM.jpeg, Predicted class: 461 - breakwater, Inference time: 0.018611 seconds
+2024-08-06 06:01:12,082 - Processing image: WhatsApp Image 2024-08-02 at 2.49.35 AM (2).jpeg
+2024-08-06 06:01:12,167 - Image: WhatsApp Image 2024-08-02 at 2.49.35 AM (2).jpeg, Predicted class: 844 - swing, Inference time: 0.018646 seconds
+2024-08-06 06:01:12,168 - Processing image: WhatsApp Image 2024-08-02 at 2.49.39 AM.jpeg
+2024-08-06 06:01:12,240 - Image: WhatsApp Image 2024-08-02 at 2.49.39 AM.jpeg, Predicted class: 866 - toyshop, Inference time: 0.018333 seconds
+2024-08-06 06:01:12,241 - Processing image: WhatsApp Image 2024-07-13 at 11.15.17 AM.jpeg
+2024-08-06 06:01:12,336 - Image: WhatsApp Image 2024-07-13 at 11.15.17 AM.jpeg, Predicted class: 988 - corn, Inference time: 0.018357 seconds
+2024-08-06 06:01:12,336 - Processing image: WhatsApp Image 2024-08-02 at 2.49.47 AM (3).jpeg
+2024-08-06 06:01:12,394 - Image: WhatsApp Image 2024-08-02 at 2.49.47 AM (3).jpeg, Predicted class: 976 - lakeside, Inference time: 0.018339 seconds
+2024-08-06 06:01:12,395 - Processing image: WhatsApp Image 2024-08-02 at 2.49.48 AM (3).jpeg
+2024-08-06 06:01:12,469 - Image: WhatsApp Image 2024-08-02 at 2.49.48 AM (3).jpeg, Predicted class: 971 - alp, Inference time: 0.018483 seconds
+2024-08-06 06:01:12,469 - Processing image: WhatsApp Image 2024-08-02 at 2.49.49 AM (3).jpeg
+2024-08-06 06:01:12,529 - Image: WhatsApp Image 2024-08-02 at 2.49.49 AM (3).jpeg, Predicted class: 699 - palace, Inference time: 0.018520 seconds
+2024-08-06 06:01:12,529 - Processing image: WhatsApp Image 2024-08-02 at 2.49.36 AM.jpeg
+2024-08-06 06:01:12,639 - Image: WhatsApp Image 2024-08-02 at 2.49.36 AM.jpeg, Predicted class: 877 - tub, Inference time: 0.018397 seconds
+2024-08-06 06:01:12,639 - Processing image: WhatsApp Image 2024-08-02 at 2.49.38 AM (1).jpeg
+2024-08-06 06:01:12,738 - Image: WhatsApp Image 2024-08-02 at 2.49.38 AM (1).jpeg, Predicted class: 434 - bathing cap, Inference time: 0.018849 seconds
+2024-08-06 06:01:12,738 - Processing image: WhatsApp Image 2024-08-02 at 2.49.48 AM.jpeg
+2024-08-06 06:01:12,845 - Image: WhatsApp Image 2024-08-02 at 2.49.48 AM.jpeg, Predicted class: 878 - turnstile, Inference time: 0.018625 seconds
+2024-08-06 06:01:12,845 - Processing image: WhatsApp Image 2024-08-02 at 2.49.49 AM (1).jpeg
+2024-08-06 06:01:12,963 - Image: WhatsApp Image 2024-08-02 at 2.49.49 AM (1).jpeg, Predicted class: 980 - valley, Inference time: 0.018832 seconds
+2024-08-06 06:01:12,963 - Processing image: WhatsApp Image 2024-07-27 at 7.46.07 AM.jpeg
+2024-08-06 06:01:13,077 - Image: WhatsApp Image 2024-07-27 at 7.46.07 AM.jpeg, Predicted class: 699 - palace, Inference time: 0.018770 seconds
+2024-08-06 06:01:13,077 - Processing image: WhatsApp Image 2024-07-26 at 5.34.30 AM.jpeg
+2024-08-06 06:01:13,176 - Image: WhatsApp Image 2024-07-26 at 5.34.30 AM.jpeg, Predicted class: 776 - sarong, Inference time: 0.018707 seconds
+2024-08-06 06:01:13,176 - Processing image: WhatsApp Image 2024-08-02 at 2.49.48 AM (4).jpeg
+2024-08-06 06:01:13,257 - Image: WhatsApp Image 2024-08-02 at 2.49.48 AM (4).jpeg, Predicted class: 976 - lakeside, Inference time: 0.018542 seconds
+2024-08-06 06:01:13,257 - Processing image: WhatsApp Image 2024-07-27 at 7.46.06 AM.jpeg
+2024-08-06 06:01:13,358 - Image: WhatsApp Image 2024-07-27 at 7.46.06 AM.jpeg, Predicted class: 461 - breakwater, Inference time: 0.018350 seconds
+2024-08-06 06:01:13,358 - Processing image: WhatsApp Image 2024-08-02 at 2.49.48 AM (2).jpeg
+2024-08-06 06:01:13,462 - Image: WhatsApp Image 2024-08-02 at 2.49.48 AM (2).jpeg, Predicted class: 844 - swing, Inference time: 0.018694 seconds
+2024-08-06 06:01:13,463 - Processing image: WhatsApp Image 2024-08-02 at 2.49.47 AM.jpeg
+2024-08-06 06:01:13,579 - Image: WhatsApp Image 2024-08-02 at 2.49.47 AM.jpeg, Predicted class: 349 - ram, Inference time: 0.018539 seconds
+2024-08-06 06:01:13,579 - Processing image: WhatsApp Image 2024-08-02 at 2.49.39 AM (3).jpeg
+2024-08-06 06:01:13,632 - Image: WhatsApp Image 2024-08-02 at 2.49.39 AM (3).jpeg, Predicted class: 884 - vase, Inference time: 0.018403 seconds
+2024-08-06 06:01:13,632 - Processing image: WhatsApp Image 2024-08-02 at 2.49.46 AM.jpeg
+2024-08-06 06:01:13,744 - Image: WhatsApp Image 2024-08-02 at 2.49.46 AM.jpeg, Predicted class: 981 - volcano, Inference time: 0.018542 seconds
+2024-08-06 06:01:13,744 - Processing image: WhatsApp Image 2024-08-02 at 2.49.46 AM (1).jpeg
+2024-08-06 06:01:13,785 - Image: WhatsApp Image 2024-08-02 at 2.49.46 AM (1).jpeg, Predicted class: 794 - shower cap, Inference time: 0.018417 seconds
+2024-08-06 06:01:13,786 - Processing image: WhatsApp Image 2024-08-02 at 2.49.48 AM (1).jpeg
+2024-08-06 06:01:13,850 - Image: WhatsApp Image 2024-08-02 at 2.49.48 AM (1).jpeg, Predicted class: 980 - valley, Inference time: 0.018681 seconds
+2024-08-06 06:01:13,851 - Processing image: WhatsApp Image 2024-08-02 at 2.49.51 AM (2).jpeg
+2024-08-06 06:01:13,895 - Image: WhatsApp Image 2024-08-02 at 2.49.51 AM (2).jpeg, Predicted class: 820 - stage, Inference time: 0.018409 seconds
+2024-08-06 06:01:13,896 - Processing image: WhatsApp Image 2024-08-02 at 2.49.35 AM (1).jpeg
+2024-08-06 06:01:13,994 - Image: WhatsApp Image 2024-08-02 at 2.49.35 AM (1).jpeg, Predicted class: 976 - lakeside, Inference time: 0.018399 seconds
+2024-08-06 06:01:13,995 - Total time for processing 59 images: 1.109206 seconds
+2024-08-06 06:01:13,995 - Average inference time per image: 0.018800 seconds
+2024-08-06 07:43:21,021 - Loading model...
+2024-08-06 07:43:21,499 - Loading labels...
+2024-08-06 07:43:21,501 - Labels loaded: 1001 labels
+2024-08-06 07:43:21,501 - Expected input size: (224, 224)
+2024-08-06 07:43:21,502 - Loading ImageNet validation dataset...
+2024-08-06 07:43:22,362 - Load pre-computed DatasetInfo (eg: splits, num examples,...) from GCS: imagenet2012/5.1.0
+2024-08-06 07:43:23,329 - Load dataset info from /tmp/tmp420j6nx_tfds
+2024-08-06 07:43:23,340 - For 'imagenet2012/5.1.0': fields info.[description, release_notes, location, splits, supervised_keys, module_name] differ on disk and in the code. Keeping the one from code.
+2024-08-06 07:43:23,341 - Generating dataset imagenet2012 (/home/orangepi/tensorflow_datasets/imagenet2012/5.1.0)
+2024-08-06 07:44:19,369 - Loading model...
+2024-08-06 07:44:19,387 - Loading labels...
+2024-08-06 07:44:19,388 - Labels loaded: 1001 labels
+2024-08-06 07:44:19,388 - Expected input size: (224, 224)
+2024-08-06 07:44:19,388 - Loading ImageNet validation dataset...
+2024-08-06 07:44:20,110 - Load pre-computed DatasetInfo (eg: splits, num examples,...) from GCS: imagenet2012/5.1.0
+2024-08-06 07:44:21,003 - Load dataset info from /tmp/tmpazbs1b1vtfds
+2024-08-06 07:44:21,016 - For 'imagenet2012/5.1.0': fields info.[description, release_notes, location, splits, supervised_keys, module_name] differ on disk and in the code. Keeping the one from code.
+2024-08-06 07:44:21,017 - Generating dataset imagenet2012 (/home/orangepi/tensorflow_datasets/imagenet2012/5.1.0)

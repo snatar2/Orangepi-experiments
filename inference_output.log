@@ -1,0 +1,148 @@
+2024-08-02 07:18:47,908 - Loading model...
+2024-08-02 07:18:48,398 - Loading labels...
+2024-08-02 07:18:48,400 - Labels loaded: 1001 labels
+2024-08-02 07:18:48,400 - Expected input size: (224, 224)
+2024-08-02 07:18:48,400 - Processing images from directory: /home/orangepi/Pictures/
+2024-08-02 07:18:48,401 - Processing image: WhatsApp Image 2024-08-02 at 2.49.47 AM (1).jpeg
+2024-08-02 07:18:48,581 - Processing image: WhatsApp Image 2024-08-02 at 2.49.34 AM.jpeg
+2024-08-02 07:18:48,654 - Processing image: WhatsApp Image 2024-08-02 at 2.49.39 AM (2).jpeg
+2024-08-02 07:18:48,756 - Processing image: WhatsApp Image 2024-08-02 at 2.49.39 AM (5).jpeg
+2024-08-02 07:18:48,845 - Processing image: WhatsApp Image 2024-07-27 at 11.13.22 AM.jpeg
+2024-08-02 07:18:48,928 - Processing image: WhatsApp Image 2024-07-27 at 7.46.08 AM (1).jpeg
+2024-08-02 07:18:49,028 - Processing image: WhatsApp Image 2024-07-27 at 7.46.08 AM.jpeg
+2024-08-02 07:18:49,137 - Processing image: WhatsApp Image 2024-07-28 at 1.31.25 AM (2).jpeg
+2024-08-02 07:18:49,213 - Processing image: WhatsApp Image 2024-07-28 at 1.31.25 AM.jpeg
+2024-08-02 07:18:49,288 - Processing image: WhatsApp Image 2024-08-02 at 2.49.49 AM (2).jpeg
+2024-08-02 07:18:49,368 - Processing image: WhatsApp Image 2024-08-02 at 2.49.40 AM.jpeg
+2024-08-02 07:18:49,470 - Processing image: WhatsApp Image 2024-08-02 at 2.49.50 AM (2).jpeg
+2024-08-02 07:18:49,565 - Processing image: WhatsApp Image 2024-08-02 at 2.49.35 AM.jpeg
+2024-08-02 07:18:49,650 - Processing image: WhatsApp Image 2024-08-02 at 2.49.39 AM (4).jpeg
+2024-08-02 07:18:49,750 - Processing image: WhatsApp Image 2024-08-02 at 2.49.49 AM.jpeg
+2024-08-02 07:18:49,837 - Processing image: WhatsApp Image 2024-08-02 at 2.49.50 AM (1).jpeg
+2024-08-02 07:18:49,947 - Processing image: WhatsApp Image 2024-08-02 at 2.49.40 AM (1).jpeg
+2024-08-02 07:18:50,009 - Processing image: WhatsApp Image 2024-08-02 at 2.49.47 AM (2).jpeg
+2024-08-02 07:18:50,104 - Processing image: WhatsApp Image 2024-08-02 at 2.49.51 AM (1).jpeg
+2024-08-02 07:18:50,206 - Processing image: WhatsApp Image 2024-07-29 at 10.50.13 PM.jpeg
+2024-08-02 07:18:50,255 - Processing image: WhatsApp Image 2024-08-02 at 2.49.46 AM (2).jpeg
+2024-08-02 07:18:50,285 - Processing image: WhatsApp Image 2024-08-02 at 2.49.47 AM (4).jpeg
+2024-08-02 07:18:50,349 - Processing image: WhatsApp Image 2024-08-02 at 2.49.39 AM (1).jpeg
+2024-08-02 07:18:50,435 - Processing image: WhatsApp Image 2024-08-02 at 2.49.50 AM (4).jpeg
+2024-08-02 07:18:50,536 - Processing image: WhatsApp Image 2024-08-02 at 2.49.46 AM (3).jpeg
+2024-08-02 07:18:50,585 - Processing image: WhatsApp Image 2024-08-02 at 2.49.36 AM (1).jpeg
+2024-08-02 07:18:50,683 - Processing image: WhatsApp Image 2024-08-02 at 2.49.47 AM (5).jpeg
+2024-08-02 07:18:50,771 - Processing image: WhatsApp Image 2024-08-02 at 2.49.50 AM (3).jpeg
+2024-08-02 07:18:50,884 - Processing image: WhatsApp Image 2024-08-02 at 2.49.50 AM (5).jpeg
+2024-08-02 07:18:50,974 - Processing image: WhatsApp Image 2024-08-02 at 2.49.38 AM.jpeg
+2024-08-02 07:18:51,077 - Processing image: WhatsApp Image 2024-08-02 at 2.49.48 AM (5).jpeg
+2024-08-02 07:18:51,185 - Processing image: WhatsApp Image 2024-07-28 at 1.31.25 AM (1).jpeg
+2024-08-02 07:24:37,620 - Loading model...
+2024-08-02 07:24:37,639 - Loading labels...
+2024-08-02 07:24:37,640 - Labels loaded: 1001 labels
+2024-08-02 07:24:37,640 - Expected input size: (224, 224)
+2024-08-02 07:24:37,640 - Processing images from directory: /home/orangepi/Pictures/
+2024-08-02 07:24:37,640 - Processing image: WhatsApp Image 2024-08-02 at 2.49.47 AM (1).jpeg
+2024-08-02 07:24:37,742 - Processing image: WhatsApp Image 2024-08-02 at 2.49.34 AM.jpeg
+2024-08-02 07:24:37,803 - Processing image: WhatsApp Image 2024-08-02 at 2.49.39 AM (2).jpeg
+2024-08-02 07:24:37,885 - Processing image: WhatsApp Image 2024-08-02 at 2.49.39 AM (5).jpeg
+2024-08-02 07:24:37,965 - Processing image: WhatsApp Image 2024-07-27 at 11.13.22 AM.jpeg
+2024-08-02 07:24:38,026 - Processing image: WhatsApp Image 2024-07-27 at 7.46.08 AM (1).jpeg
+2024-08-02 07:24:38,106 - Processing image: WhatsApp Image 2024-07-27 at 7.46.08 AM.jpeg
+2024-08-02 07:24:38,197 - Processing image: WhatsApp Image 2024-07-28 at 1.31.25 AM (2).jpeg
+2024-08-02 07:24:38,251 - Processing image: WhatsApp Image 2024-07-28 at 1.31.25 AM.jpeg
+2024-08-02 07:24:38,299 - Processing image: WhatsApp Image 2024-08-02 at 2.49.49 AM (2).jpeg
+2024-08-02 07:24:38,375 - Processing image: WhatsApp Image 2024-08-02 at 2.49.40 AM.jpeg
+2024-08-02 07:24:38,459 - Processing image: WhatsApp Image 2024-08-02 at 2.49.50 AM (2).jpeg
+2024-08-02 07:24:38,534 - Processing image: WhatsApp Image 2024-08-02 at 2.49.35 AM.jpeg
+2024-08-02 07:24:38,613 - Processing image: WhatsApp Image 2024-08-02 at 2.49.39 AM (4).jpeg
+2024-08-02 07:24:38,693 - Processing image: WhatsApp Image 2024-08-02 at 2.49.49 AM.jpeg
+2024-08-02 07:24:38,774 - Processing image: WhatsApp Image 2024-08-02 at 2.49.50 AM (1).jpeg
+2024-08-02 07:24:38,863 - Processing image: WhatsApp Image 2024-08-02 at 2.49.40 AM (1).jpeg
+2024-08-02 07:24:38,920 - Processing image: WhatsApp Image 2024-08-02 at 2.49.47 AM (2).jpeg
+2024-08-02 07:24:38,998 - Processing image: WhatsApp Image 2024-08-02 at 2.49.51 AM (1).jpeg
+2024-08-02 07:24:39,093 - Processing image: WhatsApp Image 2024-07-29 at 10.50.13 PM.jpeg
+2024-08-02 07:24:39,122 - Processing image: WhatsApp Image 2024-08-02 at 2.49.46 AM (2).jpeg
+2024-08-02 07:24:39,147 - Processing image: WhatsApp Image 2024-08-02 at 2.49.47 AM (4).jpeg
+2024-08-02 07:24:39,206 - Processing image: WhatsApp Image 2024-08-02 at 2.49.39 AM (1).jpeg
+2024-08-02 07:24:39,274 - Processing image: WhatsApp Image 2024-08-02 at 2.49.50 AM (4).jpeg
+2024-08-02 07:24:39,355 - Processing image: WhatsApp Image 2024-08-02 at 2.49.46 AM (3).jpeg
+2024-08-02 07:24:39,399 - Processing image: WhatsApp Image 2024-08-02 at 2.49.36 AM (1).jpeg
+2024-08-02 07:24:39,479 - Processing image: WhatsApp Image 2024-08-02 at 2.49.47 AM (5).jpeg
+2024-08-02 07:24:39,562 - Processing image: WhatsApp Image 2024-08-02 at 2.49.50 AM (3).jpeg
+2024-08-02 07:24:39,655 - Processing image: WhatsApp Image 2024-08-02 at 2.49.50 AM (5).jpeg
+2024-08-02 07:24:39,739 - Processing image: WhatsApp Image 2024-08-02 at 2.49.38 AM.jpeg
+2024-08-02 07:24:39,824 - Processing image: WhatsApp Image 2024-08-02 at 2.49.48 AM (5).jpeg
+2024-08-02 07:24:39,914 - Processing image: WhatsApp Image 2024-07-28 at 1.31.25 AM (1).jpeg
+2024-08-02 07:25:39,990 - Loading model...
+2024-08-02 07:25:40,009 - Loading labels...
+2024-08-02 07:25:40,010 - Labels loaded: 1001 labels
+2024-08-02 07:25:40,010 - Expected input size: (224, 224)
+2024-08-02 07:25:40,010 - Processing images from directory: /home/orangepi/Pictures/
+2024-08-02 07:25:40,010 - Processing image: WhatsApp Image 2024-08-02 at 2.49.47 AM (1).jpeg
+2024-08-02 07:25:40,113 - Processing image: WhatsApp Image 2024-08-02 at 2.49.34 AM.jpeg
+2024-08-02 07:25:40,173 - Processing image: WhatsApp Image 2024-08-02 at 2.49.39 AM (2).jpeg
+2024-08-02 07:25:40,255 - Processing image: WhatsApp Image 2024-08-02 at 2.49.39 AM (5).jpeg
+2024-08-02 07:25:40,336 - Processing image: WhatsApp Image 2024-07-27 at 11.13.22 AM.jpeg
+2024-08-02 07:25:40,396 - Processing image: WhatsApp Image 2024-07-27 at 7.46.08 AM (1).jpeg
+2024-08-02 07:25:40,477 - Processing image: WhatsApp Image 2024-07-27 at 7.46.08 AM.jpeg
+2024-08-02 07:25:40,567 - Processing image: WhatsApp Image 2024-07-28 at 1.31.25 AM (2).jpeg
+2024-08-02 07:25:40,621 - Processing image: WhatsApp Image 2024-07-28 at 1.31.25 AM.jpeg
+2024-08-02 07:25:40,669 - Processing image: WhatsApp Image 2024-08-02 at 2.49.49 AM (2).jpeg
+2024-08-02 07:25:40,745 - Processing image: WhatsApp Image 2024-08-02 at 2.49.40 AM.jpeg
+2024-08-02 07:25:40,829 - Processing image: WhatsApp Image 2024-08-02 at 2.49.50 AM (2).jpeg
+2024-08-02 07:25:40,904 - Processing image: WhatsApp Image 2024-08-02 at 2.49.35 AM.jpeg
+2024-08-02 07:25:40,984 - Processing image: WhatsApp Image 2024-08-02 at 2.49.39 AM (4).jpeg
+2024-08-02 07:25:41,064 - Processing image: WhatsApp Image 2024-08-02 at 2.49.49 AM.jpeg
+2024-08-02 07:25:41,145 - Processing image: WhatsApp Image 2024-08-02 at 2.49.50 AM (1).jpeg
+2024-08-02 07:25:41,233 - Processing image: WhatsApp Image 2024-08-02 at 2.49.40 AM (1).jpeg
+2024-08-02 07:25:41,291 - Processing image: WhatsApp Image 2024-08-02 at 2.49.47 AM (2).jpeg
+2024-08-02 07:25:41,369 - Processing image: WhatsApp Image 2024-08-02 at 2.49.51 AM (1).jpeg
+2024-08-02 07:25:41,465 - Processing image: WhatsApp Image 2024-07-29 at 10.50.13 PM.jpeg
+2024-08-02 07:25:41,493 - Processing image: WhatsApp Image 2024-08-02 at 2.49.46 AM (2).jpeg
+2024-08-02 07:25:41,518 - Processing image: WhatsApp Image 2024-08-02 at 2.49.47 AM (4).jpeg
+2024-08-02 07:25:41,578 - Processing image: WhatsApp Image 2024-08-02 at 2.49.39 AM (1).jpeg
+2024-08-02 07:25:41,647 - Processing image: WhatsApp Image 2024-08-02 at 2.49.50 AM (4).jpeg
+2024-08-02 07:25:41,728 - Processing image: WhatsApp Image 2024-08-02 at 2.49.46 AM (3).jpeg
+2024-08-02 07:25:41,772 - Processing image: WhatsApp Image 2024-08-02 at 2.49.36 AM (1).jpeg
+2024-08-02 07:25:41,852 - Processing image: WhatsApp Image 2024-08-02 at 2.49.47 AM (5).jpeg
+2024-08-02 07:25:41,935 - Processing image: WhatsApp Image 2024-08-02 at 2.49.50 AM (3).jpeg
+2024-08-02 07:25:42,028 - Processing image: WhatsApp Image 2024-08-02 at 2.49.50 AM (5).jpeg
+2024-08-02 07:25:42,113 - Processing image: WhatsApp Image 2024-08-02 at 2.49.38 AM.jpeg
+2024-08-02 07:25:42,198 - Processing image: WhatsApp Image 2024-08-02 at 2.49.48 AM (5).jpeg
+2024-08-02 07:25:42,287 - Processing image: WhatsApp Image 2024-07-28 at 1.31.25 AM (1).jpeg
+2024-08-02 07:26:40,335 - Loading model...
+2024-08-02 07:26:40,354 - Loading labels...
+2024-08-02 07:26:40,355 - Labels loaded: 1001 labels
+2024-08-02 07:26:40,355 - Expected input size: (224, 224)
+2024-08-02 07:26:40,355 - Processing images from directory: /home/orangepi/Pictures/
+2024-08-02 07:26:40,355 - Processing image: WhatsApp Image 2024-08-02 at 2.49.47 AM (1).jpeg
+2024-08-02 07:26:40,458 - Processing image: WhatsApp Image 2024-08-02 at 2.49.34 AM.jpeg
+2024-08-02 07:26:40,518 - Processing image: WhatsApp Image 2024-08-02 at 2.49.39 AM (2).jpeg
+2024-08-02 07:26:40,600 - Processing image: WhatsApp Image 2024-08-02 at 2.49.39 AM (5).jpeg
+2024-08-02 07:26:40,681 - Processing image: WhatsApp Image 2024-07-27 at 11.13.22 AM.jpeg
+2024-08-02 07:26:40,741 - Processing image: WhatsApp Image 2024-07-27 at 7.46.08 AM (1).jpeg
+2024-08-02 07:26:40,822 - Processing image: WhatsApp Image 2024-07-27 at 7.46.08 AM.jpeg
+2024-08-02 07:26:40,912 - Processing image: WhatsApp Image 2024-07-28 at 1.31.25 AM (2).jpeg
+2024-08-02 07:26:40,966 - Processing image: WhatsApp Image 2024-07-28 at 1.31.25 AM.jpeg
+2024-08-02 07:26:41,015 - Processing image: WhatsApp Image 2024-08-02 at 2.49.49 AM (2).jpeg
+2024-08-02 07:26:41,090 - Processing image: WhatsApp Image 2024-08-02 at 2.49.40 AM.jpeg
+2024-08-02 07:26:41,174 - Processing image: WhatsApp Image 2024-08-02 at 2.49.50 AM (2).jpeg
+2024-08-02 07:26:41,249 - Processing image: WhatsApp Image 2024-08-02 at 2.49.35 AM.jpeg
+2024-08-02 07:26:41,329 - Processing image: WhatsApp Image 2024-08-02 at 2.49.39 AM (4).jpeg
+2024-08-02 07:26:41,409 - Processing image: WhatsApp Image 2024-08-02 at 2.49.49 AM.jpeg
+2024-08-02 07:26:41,490 - Processing image: WhatsApp Image 2024-08-02 at 2.49.50 AM (1).jpeg
+2024-08-02 07:26:41,578 - Processing image: WhatsApp Image 2024-08-02 at 2.49.40 AM (1).jpeg
+2024-08-02 07:26:41,636 - Processing image: WhatsApp Image 2024-08-02 at 2.49.47 AM (2).jpeg
+2024-08-02 07:26:41,713 - Processing image: WhatsApp Image 2024-08-02 at 2.49.51 AM (1).jpeg
+2024-08-02 07:26:41,809 - Processing image: WhatsApp Image 2024-07-29 at 10.50.13 PM.jpeg
+2024-08-02 07:26:41,838 - Processing image: WhatsApp Image 2024-08-02 at 2.49.46 AM (2).jpeg
+2024-08-02 07:26:41,863 - Processing image: WhatsApp Image 2024-08-02 at 2.49.47 AM (4).jpeg
+2024-08-02 07:26:41,922 - Processing image: WhatsApp Image 2024-08-02 at 2.49.39 AM (1).jpeg
+2024-08-02 07:26:41,990 - Processing image: WhatsApp Image 2024-08-02 at 2.49.50 AM (4).jpeg
+2024-08-02 07:26:42,071 - Processing image: WhatsApp Image 2024-08-02 at 2.49.46 AM (3).jpeg
+2024-08-02 07:26:42,116 - Processing image: WhatsApp Image 2024-08-02 at 2.49.36 AM (1).jpeg
+2024-08-02 07:26:42,196 - Processing image: WhatsApp Image 2024-08-02 at 2.49.47 AM (5).jpeg
+2024-08-02 07:26:42,279 - Processing image: WhatsApp Image 2024-08-02 at 2.49.50 AM (3).jpeg
+2024-08-02 07:26:42,371 - Processing image: WhatsApp Image 2024-08-02 at 2.49.50 AM (5).jpeg
+2024-08-02 07:26:42,456 - Processing image: WhatsApp Image 2024-08-02 at 2.49.38 AM.jpeg
+2024-08-02 07:26:42,541 - Processing image: WhatsApp Image 2024-08-02 at 2.49.48 AM (5).jpeg
+2024-08-02 07:26:42,630 - Processing image: WhatsApp Image 2024-07-28 at 1.31.25 AM (1).jpeg

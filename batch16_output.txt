@@ -1,0 +1,63 @@
+Image: WhatsApp Image 2024-08-02 at 2.49.47 AM (1).jpeg - Predicted class: maze - Inference time: 3.9513 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.34 AM.jpeg - Predicted class: barbell - Inference time: 3.9513 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.39 AM (2).jpeg - Predicted class: boathouse - Inference time: 3.9513 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.39 AM (5).jpeg - Predicted class: tile roof - Inference time: 3.9513 seconds
+Image: WhatsApp Image 2024-07-27 at 11.13.22 AM.jpeg - Predicted class: binoculars - Inference time: 3.9513 seconds
+Image: WhatsApp Image 2024-07-27 at 7.46.08 AM (1).jpeg - Predicted class: stupa - Inference time: 3.9513 seconds
+Image: WhatsApp Image 2024-07-27 at 7.46.08 AM.jpeg - Predicted class: stupa - Inference time: 3.9513 seconds
+Image: WhatsApp Image 2024-07-28 at 1.31.25 AM (2).jpeg - Predicted class: chain mail - Inference time: 3.9513 seconds
+Image: WhatsApp Image 2024-07-28 at 1.31.25 AM.jpeg - Predicted class: seashore - Inference time: 3.9513 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.49 AM (2).jpeg - Predicted class: wing - Inference time: 3.9513 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.40 AM.jpeg - Predicted class: crate - Inference time: 3.9513 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.50 AM (2).jpeg - Predicted class: seashore - Inference time: 3.9513 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.35 AM.jpeg - Predicted class: shield - Inference time: 3.9513 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.39 AM (4).jpeg - Predicted class: kimono - Inference time: 3.9513 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.49 AM.jpeg - Predicted class: alp - Inference time: 3.9513 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.50 AM (1).jpeg - Predicted class: castle - Inference time: 3.9513 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.40 AM (1).jpeg - Predicted class: library - Inference time: 3.8462 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.47 AM (2).jpeg - Predicted class: valley - Inference time: 3.8462 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.51 AM (1).jpeg - Predicted class: park bench - Inference time: 3.8462 seconds
+Image: WhatsApp Image 2024-07-29 at 10.50.13 PM.jpeg - Predicted class: altar - Inference time: 3.8462 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.46 AM (2).jpeg - Predicted class: comic book - Inference time: 3.8462 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.47 AM (4).jpeg - Predicted class: lakeshore - Inference time: 3.8462 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.39 AM (1).jpeg - Predicted class: Crock Pot - Inference time: 3.8462 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.50 AM (4).jpeg - Predicted class: promontory - Inference time: 3.8462 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.46 AM (3).jpeg - Predicted class: maze - Inference time: 3.8462 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.36 AM (1).jpeg - Predicted class: kimono - Inference time: 3.8462 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.47 AM (5).jpeg - Predicted class: pier - Inference time: 3.8462 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.50 AM (3).jpeg - Predicted class: dam - Inference time: 3.8462 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.50 AM (5).jpeg - Predicted class: greenhouse - Inference time: 3.8462 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.38 AM.jpeg - Predicted class: scarf - Inference time: 3.8462 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.48 AM (5).jpeg - Predicted class: three-toed sloth - Inference time: 3.8462 seconds
+Image: WhatsApp Image 2024-07-28 at 1.31.25 AM (1).jpeg - Predicted class: seashore - Inference time: 3.8462 seconds
+Image: WhatsApp Image 2024-07-21 at 11.36.02 AM.jpeg - Predicted class: orange - Inference time: 3.9778 seconds
+Image: WhatsApp Image 2024-07-28 at 1.31.26 AM.jpeg - Predicted class: sunglass - Inference time: 3.9778 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.50 AM.jpeg - Predicted class: palace - Inference time: 3.9778 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.51 AM.jpeg - Predicted class: pretzel - Inference time: 3.9778 seconds
+Image: WhatsApp Image 2024-07-26 at 5.34.31 AM.jpeg - Predicted class: cliff - Inference time: 3.9778 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.35 AM (2).jpeg - Predicted class: parallel bars - Inference time: 3.9778 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.39 AM.jpeg - Predicted class: toy store - Inference time: 3.9778 seconds
+Image: WhatsApp Image 2024-07-13 at 11.15.17 AM.jpeg - Predicted class: Granny Smith - Inference time: 3.9778 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.47 AM (3).jpeg - Predicted class: alp - Inference time: 3.9778 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.48 AM (3).jpeg - Predicted class: alp - Inference time: 3.9778 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.49 AM (3).jpeg - Predicted class: palace - Inference time: 3.9778 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.36 AM.jpeg - Predicted class: patio - Inference time: 3.9778 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.38 AM (1).jpeg - Predicted class: mask - Inference time: 3.9778 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.48 AM.jpeg - Predicted class: ruler - Inference time: 3.9778 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.49 AM (1).jpeg - Predicted class: valley - Inference time: 3.9778 seconds
+Image: WhatsApp Image 2024-07-27 at 7.46.07 AM.jpeg - Predicted class: palace - Inference time: 3.9778 seconds
+Image: WhatsApp Image 2024-07-26 at 5.34.30 AM.jpeg - Predicted class: shoal - Inference time: 2.7076 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.48 AM (4).jpeg - Predicted class: lakeshore - Inference time: 2.7076 seconds
+Image: WhatsApp Image 2024-07-27 at 7.46.06 AM.jpeg - Predicted class: breakwater - Inference time: 2.7076 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.48 AM (2).jpeg - Predicted class: swing - Inference time: 2.7076 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.47 AM.jpeg - Predicted class: ram - Inference time: 2.7076 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.39 AM (3).jpeg - Predicted class: vase - Inference time: 2.7076 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.46 AM.jpeg - Predicted class: alp - Inference time: 2.7076 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.46 AM (1).jpeg - Predicted class: shower cap - Inference time: 2.7076 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.48 AM (1).jpeg - Predicted class: promontory - Inference time: 2.7076 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.51 AM (2).jpeg - Predicted class: unicycle - Inference time: 2.7076 seconds
+Image: WhatsApp Image 2024-08-02 at 2.49.35 AM (1).jpeg - Predicted class: swimsuit - Inference time: 2.7076 seconds
+
+Total images processed: 59
+Total inference time: 14.4830 seconds
+Average inference time per image: 0.2455 seconds
